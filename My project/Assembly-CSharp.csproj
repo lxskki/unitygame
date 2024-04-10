@@ -58,8 +58,15 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\movi\movimentação.cs" />
-    <Compile Include="Assets\ADG_Textures\ground_vol1\ground12\NewBehaviourScript.cs" />
+    <Compile Include="Assets\movimentCapsule.cs" />
+    <Compile Include="Assets\Stylized Tools\Scripts\OpenURL.cs" />
+    <Compile Include="Assets\PBR_Floweringot\Scripts\CameraFreeflight.cs" />
+    <Compile Include="Assets\Scenes\movimentPlayer.cs" />
+    <Compile Include="Assets\pegarObjetos.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Gardening Supply Set\Readme.txt" />
+    <None Include="Assets\Gardening Supply Set\Resources\Shaders\Transparent-BumpSpecNoCull.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -767,9 +774,6 @@
     <Reference Include="Unity.EditorCoroutines.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TerrainTools.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
@@ -787,9 +791,6 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TerrainTools">
-      <HintPath>Library\ScriptAssemblies\Unity.TerrainTools.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
       <HintPath>Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
