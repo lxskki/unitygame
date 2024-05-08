@@ -58,14 +58,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\scripts\ColisaoObjeto.cs" />
     <Compile Include="Assets\movi\movimentação.cs" />
-    <Compile Include="Assets\ColisaoObjeto.cs" />
-    <Compile Include="Assets\movimentCapsule.cs" />
+    <Compile Include="Assets\scripts\Vida.cs" />
     <Compile Include="Assets\ADG_Textures\ground_vol1\ground12\NewBehaviourScript.cs" />
+    <Compile Include="Assets\scripts\pegarObjetos.cs" />
+    <Compile Include="Assets\scripts\movimentCapsule.cs" />
     <Compile Include="Assets\Stylized Tools\Scripts\OpenURL.cs" />
     <Compile Include="Assets\PBR_Floweringot\Scripts\CameraFreeflight.cs" />
     <Compile Include="Assets\Scenes\movimentPlayer.cs" />
-    <Compile Include="Assets\pegarObjetos.cs" />
+    <Compile Include="Assets\scripts\BarraDeVida.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Gardening Supply Set\Readme.txt" />
