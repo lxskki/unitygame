@@ -387,6 +387,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/ADG_Textures/ground_vol1/ground12/NewBehaviourScript.cs"
+"Assets/ColisaoObjeto.cs"
 "Assets/movi/movimentação.cs"
 "Assets/movimentCapsule.cs"
 "Assets/PBR_Floweringot/Scripts/CameraFreeflight.cs"

@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\movi\movimentação.cs" />
+    <Compile Include="Assets\ColisaoObjeto.cs" />
     <Compile Include="Assets\movimentCapsule.cs" />
     <Compile Include="Assets\ADG_Textures\ground_vol1\ground12\NewBehaviourScript.cs" />
     <Compile Include="Assets\Stylized Tools\Scripts\OpenURL.cs" />
